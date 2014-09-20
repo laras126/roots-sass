@@ -1,3 +1,12 @@
+# What's this?
+
+I love Roots, but every time I start a project I take out Bootstrap and update some things on the Sass port. And it looks like the Less Roots is better maintained. So, I removed BS from the Less version and removed Less/added my [simple-sassy-starter](https://github.com/laras126/simple-sassy-starter) file structure.
+
+Bam!
+
+Now, back to regular scheduled programming:
+
+
 # [Roots Starter Theme](http://roots.io/)
 [![devDependency Status](https://david-dm.org/roots/roots/dev-status.svg)](https://david-dm.org/roots/roots#info=devDependencies)
 
